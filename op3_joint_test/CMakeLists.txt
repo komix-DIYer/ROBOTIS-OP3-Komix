@@ -14,7 +14,6 @@ catkin_package(
   CATKIN_DEPENDS
     roscpp
     robotis_controller_msgs
-    roscpp
     sensor_msgs
     std_msgs
 )
