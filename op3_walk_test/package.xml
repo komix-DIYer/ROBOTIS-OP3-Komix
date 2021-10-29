@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>op3_walk_test</name>
+  <version>0.0.0</version>
+  <description>
+    The op3_walk_test package
+  </description>
+
+  <license>Apache 2.0</license>
+  <maintainer email="komix@todo.todo">komix</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>robotis_controller_msgs</depend>
+  <exec_depend>op3_manager</exec_depend>
+
+</package>
